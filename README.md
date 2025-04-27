@@ -1,18 +1,17 @@
 # Line Follower Robot
 
 ## Description
-This project involves building a **Line Follower Robot** that autonomously follows a predefined path marked by a line. The robot utilizes [sensors] for line detection and a control system for navigation. 
-This robot is typically used in robotics education, competitions, and can be extended with more complex behaviors and algorithms.
+This project involves building a **Line Follower Robot** that autonomously follows a predefined path marked by a line. The robot utilizes TCRT-5000 IR sensors for line detection and a control system for navigation. This robot is typically used in robotics education, competitions, and can be extended with more complex behaviors and algorithms.
 
 ## Features
 - **Line Following**: The robot can follow a black line on a white surface and vice-versa.
 - **Speed Control**: The robot adjusts its speed based on the conditions.
-- **Sensor Integration**: IR sensors, ultrasonic sensors
+- **Sensor Integration**: TCRT-5000 IR sensors, ultrasonic sensors
 
 ## Technologies Used
 - **Microcontroller**: Arduino,
 - **Programming Language**: Arduino, C++
-- **Sensors**: IR Sensors, Ultrasonic Sensor
+- **Sensors**: TCRT-5000 IR sensors, Ultrasonic Sensor
 - **Motor Driver**: L298N
 
 ## Installation
